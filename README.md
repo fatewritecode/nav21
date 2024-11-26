@@ -2,6 +2,8 @@
 
 nav21
 
+![Screnshot](https://github.com/fatewritecode/nav21/blob/main/assets/scr.jpg)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.

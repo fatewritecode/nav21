@@ -2,7 +2,7 @@
 
 nav21
 
-![Screnshot](https://github.com/fatewritecode/nav21/blob/main/assets/scr.jpg)
+![Screnshot](https://github.com/fatewritecode/nav21/blob/main/assets/scr.png)
 ![Screnshot](https://github.com/fatewritecode/mynavigator/blob/main/assets/scr.jpg)
 
 ## Getting Started
